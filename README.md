@@ -1,6 +1,6 @@
 # Sextou — site pixel art
 
-Projeto front-end completo em HTML, CSS e JavaScript. Não precisa de Python para funcionar.
+Projeto front-end completo em HTML, CSS e JavaScript.
 
 ## Executar
 Abra `index.html` no navegador ou, na pasta do projeto, rode:
